@@ -17,7 +17,7 @@ defaults:
       title: dbyll
 
 description: Stylish Jekyll Theme
-disqus: dbyll-ghost # add disqus short name here
+disqus: touilahmedimad # add disqus short name here
 author:
   name: Touil Ahmed Imad
   email: ahmedimadtouil@gmail.com
